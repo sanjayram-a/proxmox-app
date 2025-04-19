@@ -6,7 +6,7 @@ A full-stack application for managing virtual machines in a Proxmox environment,
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/sanjayram-a/proxmox-app
 cd proxmox-app
 ```
 
